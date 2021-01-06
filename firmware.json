@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-https",
-    "version": 1,
+    "version": 4,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/iotverse/ot/main/fota_via_https_v2.bin"
