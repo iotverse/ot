@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-https",
-    "version": 6,
+    "version": 7,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/iotverse/ot/main/ota.ino.doitESP32devkitV1.bin"
